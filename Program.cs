@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, World!");
+soma somar = new soma();
+Console.WriteLine(somar.calcular(3, 5));
